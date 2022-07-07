@@ -1,2 +1,4 @@
 2022-07-06 14:55:06,099 - kedro.extras.extensions.ipython - INFO - No path argument was provided. Using: None
 2022-07-06 14:55:06,101 - kedro.extras.extensions.ipython - WARNING - Kedro extension was registered but couldn't find a Kedro project. Make sure you run `%reload_kedro <path_to_kedro_project>`.
+2022-07-07 16:50:22,789 - kedro.extras.extensions.ipython - INFO - No path argument was provided. Using: None
+2022-07-07 16:50:22,791 - kedro.extras.extensions.ipython - WARNING - Kedro extension was registered but couldn't find a Kedro project. Make sure you run `%reload_kedro <path_to_kedro_project>`.
